@@ -1,1 +1,1 @@
-# Relaynet Relayer
+# Relaynet Courier for Desktop
